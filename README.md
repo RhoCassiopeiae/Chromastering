@@ -75,7 +75,7 @@ Inspect and control primaries, transfer functions, matrices, chroma siting, and 
 
 <img width="2445" height="1467" alt="chroma_feature" src="https://github.com/user-attachments/assets/68782e1d-2a3e-4d8f-af14-3ba6cd2db886" />
 
-### 06 / Luma — every nit, accounted for
+### [ 06 ] Luma — every nit, accounted for
 
 Analyze HDR luminance on a **0.1–10,000 nit logarithmic waveform**. Track per-frame MaxCLL/MaxFALL, P10–P90 spread, and scene changes; derive metadata from measured, percentile, trimmed, or custom values.
 
