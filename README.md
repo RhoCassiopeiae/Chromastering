@@ -27,7 +27,7 @@ Encoding is easy to start. **Knowing what an encode actually did to your image i
 
 Chromastering brings encoding, pixel-level inspection, colorimetry, HDR analysis, and objective quality measurement into one workflow. Try another codec, change a parameter, revisit an earlier result, and compare it on the *same source frame*—without juggling a dozen disconnected tools.
 
-It is a personal, non-commercial project built for people who care about the details: video enthusiasts, archivists, codec experimenters, and demanding Topaz Video AI workflows.
+Built for video enthusiasts, archivists, and codec experimenters who want precise control and measurable results.
 
 > [!NOTE]
 > **Windows · Alpha software.** Chromastering is actively developed. Features and requirements may evolve between releases.
