@@ -73,7 +73,7 @@ Apply **NVIDIA SoL** after upscaling, blend the refined image with your chosen s
 
 Inspect and control primaries, transfer functions, matrices, chroma siting, and mastering-display information. **CIE 1931 and 1976** diagrams and a saturation timeline keep color decisions grounded in actual data. On a compatible display, the interface can render HDR content in HDR.
 
-<img width="2445" height="1467" alt="chroma_feature" src="https://github.com/user-attachments/assets/68782e1d-2a3e-4d8f-af14-3ba6cd2db886" />
+<img width="2187" height="1306" alt="image" src="https://github.com/user-attachments/assets/618b5c40-1935-4684-8eb8-72c6f10ad808" />
 
 ### [ 06 ] Luma — every nit, accounted for
 
