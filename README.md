@@ -45,31 +45,31 @@ Built for video enthusiasts, archivists, and codec experimenters who want precis
 
 ## Inside the application
 
-### 01 / Media & projects — one source, every trial
+### [ 01 ] Media & projects — one source, every trial
 
 Load your media, organize encoding experiments, and return to any previous configuration. Each trial keeps its own settings and available quality scores, making comparisons reproducible rather than anecdotal.
 
 <img width="2445" height="1466" alt="project_feature" src="https://github.com/user-attachments/assets/6a48915b-c48d-4700-93e0-2fac594eea5b" />
 
-### 02 / Crop — inspect every border, pixel by pixel
+### [ 02 ] Crop — inspect every border, pixel by pixel
 
 Four magnified trapezoid views expose all frame edges simultaneously, up to **32×**. Detect black bars, inspect average or peak edge values, adjust margins precisely, and watch aspect-ratio information update live.
 
 <img width="2188" height="1309" alt="crop_feature" src="https://github.com/user-attachments/assets/5dbd8d3f-9f02-4299-a039-bc9a52545934" />
 
-### 03 / Resize — choose the right scaler, not just a resolution
+### [ 03 ] Resize — choose the right scaler, not just a resolution
 
 Explore **17 scaling methods** across swscale, zimg, and libplacebo, including EWA-family filters and neural options. Compare measured characteristics such as sharpness, ringing, aliasing, and texture; inspect results at pixel level with a source/output slider.
 
 <img width="2188" height="1238" alt="resize_feature" src="https://github.com/user-attachments/assets/cb29782c-d478-476f-ace8-ba6e5bc54222" />
 
-### 04 / Refine — an AI finishing pass, on your terms
+### [ 04 ] Refine — an AI finishing pass, on your terms
 
 Apply **NVIDIA SoL** after upscaling, blend the refined image with your chosen scaler, and control noise, seeds, temporal windows, and overlap. Compare the input and refined output before deciding whether the extra processing is worthwhile.
 
 <img width="2447" height="1467" alt="refine" src="https://github.com/user-attachments/assets/c059ffef-e993-4880-b3fc-9cf25d13fb39" />
 
-### 05 / Chroma — color science, made visible
+### [ 05 ] Chroma — color science, made visible
 
 Inspect and control primaries, transfer functions, matrices, chroma siting, and mastering-display information. **CIE 1931 and 1976** diagrams and a saturation timeline keep color decisions grounded in actual data. On a compatible display, the interface can render HDR content in HDR.
 
@@ -81,19 +81,19 @@ Analyze HDR luminance on a **0.1–10,000 nit logarithmic waveform**. Track per-
 
 <img width="2445" height="1467" alt="luma_feature" src="https://github.com/user-attachments/assets/6fda9bd0-b9f0-4a36-b92d-b11ec022c0ee" />
 
-### 07 / Encoder — deep control without command-line archaeology
+### [ 07 ] Encoder — deep control without command-line archaeology
 
 Tune rate control, GOP structure, motion search, lookahead, reference frames, tiles, filters, and more. Start from sensible templates or saved profiles; contextual guidance explains controls and prevents incompatible combinations. The generated command remains accessible.
 
 <img width="2186" height="1307" alt="encoder_feature" src="https://github.com/user-attachments/assets/412c0d89-6fbc-4772-a5a1-559faee210b5" />
 
-### 08 / Quality — seven perspectives, one timeline
+### [ 08 ] Quality — seven perspectives, one timeline
 
 Compare **VMAF · SSIM · PSNR · Y-PSNR · HDR-VDP-2 · HDR-VDP-3 · ICtCp ΔE** with per-frame curves and a quality heatmap. Jump directly from a dip in the graph to the corresponding frame. Optional CUDA acceleration helps with FFT-intensive HDR-VDP analysis.
 
 <img width="2186" height="1308" alt="quality_feature" src="https://github.com/user-attachments/assets/afb85e72-21a2-4cc8-a6b2-e97b75f83131" />
 
-### 09 / Metadata — let your file remember the experiment
+### [ 09 ] Metadata — let your file remember the experiment
 
 Attach available quality measurements, thumbnails, HDR statistics, encode settings, and supported Topaz metadata to MKV files for later inspection. Integrity-checked binary analysis data keeps detailed results compact. Compatible **AV1 NVENC** workflows can preserve HDR10+ and Dolby Vision dynamic metadata.
 
@@ -101,7 +101,7 @@ Attach available quality measurements, thumbnails, HDR statistics, encode settin
 ![Metadata — persistent analysis and HDR metadata](screenshots/09-metadata.png)
 -->
 
-### 10 / Monitor — your hardware, under the microscope
+### [ 10 ] Monitor — your hardware, under the microscope
 
 See CPU topology, CCDs, cores, L3 cache, individual clocks and temperatures, plus GPU and VRAM information. Control encoder CPU affinity from a live hardware view—no separate monitoring dashboard required.
 
@@ -109,7 +109,7 @@ See CPU topology, CCDs, cores, L3 cache, individual clocks and temperatures, plu
 ![Monitor — live CPU and GPU telemetry](screenshots/10-monitor.png)
 -->
 
-### 11 / Settings — the toolchain, taken care of
+### [ 11 ] Settings — the toolchain, taken care of
 
 Configure the environment and supporting components from the application. The first-run assistant fetches and verifies the tools you select, so the main executable stays lean.
 
