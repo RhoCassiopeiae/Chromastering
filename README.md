@@ -45,71 +45,53 @@ Built for video enthusiasts, archivists, and codec experimenters who want precis
 
 ## Inside the application
 
-Each part of the workflow has its own view. The screenshot slots below are intentionally left as comments until real captures are added; see [Adding screenshots](#adding-screenshots).
-
 ### 01 / Media & projects — one source, every trial
 
 Load your media, organize encoding experiments, and return to any previous configuration. Each trial keeps its own settings and available quality scores, making comparisons reproducible rather than anecdotal.
 
-<!-- SCREENSHOT 01: Save your capture as screenshots/01-media-projects.png and uncomment the next line.
-![Media and projects — experiments organized around one source](screenshots/01-media-projects.png)
--->
+<img width="2445" height="1466" alt="project_feature" src="https://github.com/user-attachments/assets/6a48915b-c48d-4700-93e0-2fac594eea5b" />
 
 ### 02 / Crop — inspect every border, pixel by pixel
 
 Four magnified trapezoid views expose all frame edges simultaneously, up to **32×**. Detect black bars, inspect average or peak edge values, adjust margins precisely, and watch aspect-ratio information update live.
 
-<!-- SCREENSHOT 02: screenshots/02-crop.png
-![Crop — four-edge pixel-level inspection](screenshots/02-crop.png)
--->
+<img width="2188" height="1309" alt="crop_feature" src="https://github.com/user-attachments/assets/5dbd8d3f-9f02-4299-a039-bc9a52545934" />
 
 ### 03 / Resize — choose the right scaler, not just a resolution
 
 Explore **17 scaling methods** across swscale, zimg, and libplacebo, including EWA-family filters and neural options. Compare measured characteristics such as sharpness, ringing, aliasing, and texture; inspect results at pixel level with a source/output slider.
 
-<!-- SCREENSHOT 03: screenshots/03-resize.png
-![Resize — filter analysis and pixel-exact comparison](screenshots/03-resize.png)
--->
+<img width="2188" height="1238" alt="resize_feature" src="https://github.com/user-attachments/assets/cb29782c-d478-476f-ace8-ba6e5bc54222" />
 
 ### 04 / Refine — an AI finishing pass, on your terms
 
 Apply **NVIDIA SoL** after upscaling, blend the refined image with your chosen scaler, and control noise, seeds, temporal windows, and overlap. Compare the input and refined output before deciding whether the extra processing is worthwhile.
 
-<!-- SCREENSHOT 04: screenshots/04-refine.png
-![Refine — NVIDIA SoL refinement and before-after preview](screenshots/04-refine.png)
--->
+<img width="2447" height="1467" alt="refine" src="https://github.com/user-attachments/assets/c059ffef-e993-4880-b3fc-9cf25d13fb39" />
 
 ### 05 / Chroma — color science, made visible
 
 Inspect and control primaries, transfer functions, matrices, chroma siting, and mastering-display information. **CIE 1931 and 1976** diagrams and a saturation timeline keep color decisions grounded in actual data. On a compatible display, the interface can render HDR content in HDR.
 
-<!-- SCREENSHOT 05: screenshots/05-chroma.png
-![Chroma — gamut plots and colorimetry controls](screenshots/05-chroma.png)
--->
+<img width="2445" height="1467" alt="chroma_feature" src="https://github.com/user-attachments/assets/68782e1d-2a3e-4d8f-af14-3ba6cd2db886" />
 
 ### 06 / Luma — every nit, accounted for
 
 Analyze HDR luminance on a **0.1–10,000 nit logarithmic waveform**. Track per-frame MaxCLL/MaxFALL, P10–P90 spread, and scene changes; derive metadata from measured, percentile, trimmed, or custom values.
 
-<!-- SCREENSHOT 06: screenshots/06-luma.png
-![Luma — HDR waveform, scene changes and luminance statistics](screenshots/06-luma.png)
--->
+<img width="2445" height="1467" alt="luma_feature" src="https://github.com/user-attachments/assets/6fda9bd0-b9f0-4a36-b92d-b11ec022c0ee" />
 
 ### 07 / Encoder — deep control without command-line archaeology
 
 Tune rate control, GOP structure, motion search, lookahead, reference frames, tiles, filters, and more. Start from sensible templates or saved profiles; contextual guidance explains controls and prevents incompatible combinations. The generated command remains accessible.
 
-<!-- SCREENSHOT 07: screenshots/07-encoder.png
-![Encoder — detailed codec controls and profiles](screenshots/07-encoder.png)
--->
+<img width="2186" height="1307" alt="encoder_feature" src="https://github.com/user-attachments/assets/412c0d89-6fbc-4772-a5a1-559faee210b5" />
 
 ### 08 / Quality — seven perspectives, one timeline
 
 Compare **VMAF · SSIM · PSNR · Y-PSNR · HDR-VDP-2 · HDR-VDP-3 · ICtCp ΔE** with per-frame curves and a quality heatmap. Jump directly from a dip in the graph to the corresponding frame. Optional CUDA acceleration helps with FFT-intensive HDR-VDP analysis.
 
-<!-- SCREENSHOT 08: screenshots/08-quality.png
-![Quality — seven metrics, per-frame graphs and heatmap](screenshots/08-quality.png)
--->
+<img width="2186" height="1308" alt="quality_feature" src="https://github.com/user-attachments/assets/afb85e72-21a2-4cc8-a6b2-e97b75f83131" />
 
 ### 09 / Metadata — let your file remember the experiment
 
