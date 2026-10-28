@@ -65,7 +65,9 @@ Explore **17 scaling methods** across swscale, zimg, and libplacebo, including E
 
 ### [ 04 ] Refine — an AI finishing pass, on your terms
 
-Apply **NVIDIA SoL** after upscaling, blend the refined image with your chosen scaler, and control noise, seeds, temporal windows, and overlap. Compare the input and refined output before deciding whether the extra processing is worthwhile.
+**Unleash the next generation of AI-powered video enhancement with NVIDIA SoL**, a groundbreaking new Stable Diffusion model designed specifically for video!
+
+Go beyond traditional upscaling with AI-driven refinement, seamlessly blend the enhanced result with your favorite scaler, and fine-tune noise, seeds, temporal windows, and overlap for precise control. Compare the original and AI-refined output side by side to discover just how far this powerful new technology can push visual quality.
 
 <img width="2447" height="1467" alt="refine" src="https://github.com/user-attachments/assets/c059ffef-e993-4880-b3fc-9cf25d13fb39" />
 
