@@ -113,9 +113,7 @@ See CPU topology, CCDs, cores, L3 cache, individual clocks and temperatures, plu
 
 Configure the environment and supporting components from the application. The first-run assistant fetches and verifies the tools you select, so the main executable stays lean.
 
-<!-- SCREENSHOT 11: screenshots/11-settings.png
-![Settings — application preferences and tool management](screenshots/11-settings.png)
--->
+<img width="1504" height="900" alt="image" src="https://github.com/user-attachments/assets/f10c2946-d5e8-4f2f-8054-39eae516f99a" />
 
 ## Codecs and analysis at a glance
 
