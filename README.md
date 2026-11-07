@@ -81,13 +81,13 @@ Inspect and control primaries, transfer functions, matrices, chroma siting, and 
 
 Analyze HDR luminance on a **0.1–10,000 nit logarithmic waveform**. Track per-frame MaxCLL/MaxFALL, P10–P90 spread, and scene changes; derive metadata from measured, percentile, trimmed, or custom values.
 
-<img width="2445" height="1467" alt="luma_feature" src="https://github.com/user-attachments/assets/6fda9bd0-b9f0-4a36-b92d-b11ec022c0ee" />
+<img width="1504" height="900" alt="luma_hdr_900p_SDR" src="https://github.com/user-attachments/assets/c3919109-cc12-4f74-bc6c-a03feb274dab" />
 
 ### [ 07 ] Encoder — deep control without command-line archaeology
 
 Tune rate control, GOP structure, motion search, lookahead, reference frames, tiles, filters, and more. Start from sensible templates or saved profiles; contextual guidance explains controls and prevents incompatible combinations. The generated command remains accessible.
 
-<img width="2186" height="1307" alt="encoder_feature" src="https://github.com/user-attachments/assets/412c0d89-6fbc-4772-a5a1-559faee210b5" />
+<img width="1504" height="900" alt="encoder_av2_hdr_900p_SDR" src="https://github.com/user-attachments/assets/1ad0f14a-ea77-4e01-826b-bd7f86236e6f" />
 
 ### [ 08 ] Quality — seven perspectives, one timeline
 
