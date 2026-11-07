@@ -55,7 +55,7 @@ Load your media, organize encoding experiments, and return to any previous confi
 
 Four magnified trapezoid views expose all frame edges simultaneously, up to **32×**. Detect black bars, inspect average or peak edge values, adjust margins precisely, and watch aspect-ratio information update live.
 
-<img width="1504" height="900" alt="crop_hdr_900p_SDR" src="https://github.com/user-attachments/assets/c056ee2b-f4e3-4555-9a7d-c86b8033decd" />
+<img width="1504" height="900" alt="crop_hdr_900p_SDR (1)" src="https://github.com/user-attachments/assets/30b61692-7d33-414a-b7a1-c0a7144cd862" />
 
 ### [ 03 ] Resize — choose the right scaler, not just a resolution
 
