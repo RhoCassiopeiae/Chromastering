@@ -107,9 +107,7 @@ Attach available quality measurements, thumbnails, HDR statistics, encode settin
 
 See CPU topology, CCDs, cores, L3 cache, individual clocks and temperatures, plus GPU and VRAM information. Control encoder CPU affinity from a live hardware view—no separate monitoring dashboard required.
 
-<!-- SCREENSHOT 10: screenshots/10-monitor.png
-![Monitor — live CPU and GPU telemetry](screenshots/10-monitor.png)
--->
+<img width="1504" height="900" alt="monitoring_hdr_900p_SDR" src="https://github.com/user-attachments/assets/1a8ebe9e-11c8-47b7-86f8-07e633d81f7f" />
 
 ### [ 11 ] Settings — the toolchain, taken care of
 
