@@ -75,7 +75,7 @@ Go beyond traditional upscaling with AI-driven refinement, seamlessly blend the 
 
 Inspect and control primaries, transfer functions, matrices, chroma siting, and mastering-display information. **CIE 1931 and 1976** diagrams and a saturation timeline keep color decisions grounded in actual data. On a compatible display, the interface can render HDR content in HDR.
 
-<img width="2187" height="1306" alt="image" src="https://github.com/user-attachments/assets/618b5c40-1935-4684-8eb8-72c6f10ad808" />
+<img width="1504" height="900" alt="chroma_hdr_900p_SDR" src="https://github.com/user-attachments/assets/471bf375-51f2-4b84-b96e-afe155538d28" />
 
 ### [ 06 ] Luma — every nit, accounted for
 
