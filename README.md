@@ -69,7 +69,7 @@ Explore **17 scaling methods** across swscale, zimg, and libplacebo, including E
 
 Go beyond traditional upscaling with AI-driven refinement, seamlessly blend the enhanced result with your favorite scaler, and fine-tune noise, seeds, temporal windows, and overlap for precise control. Compare the original and AI-refined output side by side to discover just how far this powerful new technology can push visual quality.
 
-<img width="2447" height="1467" alt="refine" src="https://github.com/user-attachments/assets/c059ffef-e993-4880-b3fc-9cf25d13fb39" />
+<img width="1504" height="900" alt="image" src="https://github.com/user-attachments/assets/96bb0d45-267d-45be-affc-01b80bb2584d" />
 
 ### [ 05 ] Chroma — color science, made visible
 
