@@ -93,7 +93,7 @@ Tune rate control, GOP structure, motion search, lookahead, reference frames, ti
 
 Compare **VMAF · SSIM · PSNR · Y-PSNR · HDR-VDP-2 · HDR-VDP-3 · ICtCp ΔE** with per-frame curves and a quality heatmap. Jump directly from a dip in the graph to the corresponding frame. Optional CUDA acceleration helps with FFT-intensive HDR-VDP analysis.
 
-<img width="2186" height="1308" alt="quality_feature" src="https://github.com/user-attachments/assets/afb85e72-21a2-4cc8-a6b2-e97b75f83131" />
+<img width="1504" height="900" alt="quality_hdr_900p_SDR" src="https://github.com/user-attachments/assets/441e9724-fe0f-469e-af4e-278e16a8cde9" />
 
 ### [ 09 ] Metadata — let your file remember the experiment
 
