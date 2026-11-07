@@ -49,7 +49,7 @@ Built for video enthusiasts, archivists, and codec experimenters who want precis
 
 Load your media, organize encoding experiments, and return to any previous configuration. Each trial keeps its own settings and available quality scores, making comparisons reproducible rather than anecdotal.
 
-<img width="2445" height="1466" alt="project_feature" src="https://github.com/user-attachments/assets/6a48915b-c48d-4700-93e0-2fac594eea5b" />
+<img width="1504" height="900" alt="image" src="https://github.com/user-attachments/assets/690bcb57-c07a-4206-a55d-91903d81554f" />
 
 ### [ 02 ] Crop — inspect every border, pixel by pixel
 
