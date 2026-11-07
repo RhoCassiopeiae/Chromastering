@@ -61,7 +61,7 @@ Four magnified trapezoid views expose all frame edges simultaneously, up to **32
 
 Explore **17 scaling methods** across swscale, zimg, and libplacebo, including EWA-family filters and neural options. Compare measured characteristics such as sharpness, ringing, aliasing, and texture; inspect results at pixel level with a source/output slider.
 
-<img width="2188" height="1238" alt="resize_feature" src="https://github.com/user-attachments/assets/cb29782c-d478-476f-ace8-ba6e5bc54222" />
+<img width="1504" height="900" alt="resize_hdr_900p_SDR" src="https://github.com/user-attachments/assets/92b5099b-dd3c-4048-92cf-4678413fcaf5" />
 
 ### [ 04 ] Refine — an AI finishing pass, on your terms
 
